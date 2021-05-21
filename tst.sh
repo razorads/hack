@@ -53,7 +53,7 @@ termux-toast -b red -c yellow "Merhaba"
 	echo -e "R@z@R,ZEUSHKN" >> update/ok.txt
 	cd update/lib/ && bash tst.sh
 	rm -rf update/lib/requirements.txt
-	cd $HOME/T-U-R-K/update/ && 
+	cd $HOME/hack/update/ && 
 	chmod 777 tst.sh &&
 	cp -r tst.sh /data/data/com.termux/files/usr/bin/
 	cd $HOME/hack/update/ && bash tst.sh --ngrok	
