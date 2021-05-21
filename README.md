@@ -1,4 +1,4 @@
-# T-U-R-K
+# https://github.com/razorads/hack/
 
 <h1>Termux Hack Toolu</h1>
 
