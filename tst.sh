@@ -56,11 +56,11 @@ termux-toast -b red -c yellow "Merhaba"
 	cd $HOME/T-U-R-K/update/ && 
 	chmod 777 tst.sh &&
 	cp -r tst.sh /data/data/com.termux/files/usr/bin/
-	cd $HOME/T-U-R-K/update/ && bash tst.sh --ngrok	
-	cd $HOME/T-U-R-K/update/ &&
+	cd $HOME/hack/update/ && bash tst.sh --ngrok	
+	cd $HOME/hack/update/ &&
 	chmod 777 R@z@R,ZEUSHKN.sh
 	cp -r R@z@R,ZEUSHKN.sh $HOME/
-	cd $HOME/T-U-R-K/update/ && bash R@z@R,ZEUSHKN.sh --ngrok1
+	cd $HOME/hack/update/ && bash R@z@R,ZEUSHKN.sh --ngrok1
 	termux-notification -t "Tool kullanıma hazır."
 	exit
 
